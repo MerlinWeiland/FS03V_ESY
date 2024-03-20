@@ -2,7 +2,7 @@
 
 #python Porgramm
 
-def clear(():
+def clear():
   os.system("clear")
   auswahl(num)
 
