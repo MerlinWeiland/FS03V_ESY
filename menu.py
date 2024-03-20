@@ -2,6 +2,12 @@
 
 #python Porgramm
 
+def clear(():
+  os.system("clear")
+  auswahl(num)
+
+
+
 
 def main():
   print("was geht")
