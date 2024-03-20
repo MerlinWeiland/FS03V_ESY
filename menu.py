@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 #python Porgramm
+#Eine verädnerung von GITHUB
 
 def clear():
   os.system("clear")
